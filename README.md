@@ -2,7 +2,7 @@
 
 Experience our latest version directly in Google Colab:
 
-🔗 [Run on Google Colab](https://colab.research.google.com/drive/1JUBOZqMxfbMR1-rRowJkh8xw60JWb12V?usp=sharing)
+🔗 [Run on Google Colab](https://drive.google.com/file/d/12eBEkau-OGalUPipfd_fRI8M-twpmLIc/view?usp=sharing)
 
 ## Quick Start
 
