@@ -1,6 +1,12 @@
 # ZeroTuning: Unlocking the Initial Token's Power to Enhance Large Language Models Without Training
 
+<<<<<<< HEAD
 Experience our latest version directly in Google Colab.
+=======
+Experience our latest version directly in Google Colab:
+
+🔗 [Run on Google Colab](https://drive.google.com/file/d/12eBEkau-OGalUPipfd_fRI8M-twpmLIc/view?usp=sharing)
+>>>>>>> 53d3d5111b7f8e66cea4d72de6730959210ec375
 
 ## Quick Start
 
