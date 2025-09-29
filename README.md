@@ -1,8 +1,6 @@
 # ZeroTuning: Unlocking the Initial Token's Power to Enhance Large Language Models Without Training
 
-Experience our latest version directly in Google Colab:
-
-🔗 [Run on Google Colab](https://colab.research.google.com/drive/1JUBOZqMxfbMR1-rRowJkh8xw60JWb12V?usp=sharing)
+Experience our latest version directly in Google Colab.
 
 ## Quick Start
 
@@ -30,7 +28,7 @@ Experience our latest version directly in Google Colab:
 !unzip data.zip -d data
 ```
 
-2. Open the notebook using the Colab link above
+2. Export the ipynb and open the notebook using the Colab 
 3. Follow the step-by-step cells to test the model
 4. (Optional) Experiment with your own inputs or datasets by modifying the code
 
